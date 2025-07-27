@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Frontend",
+			"path": "./client"
+		},
+		{
+			"name": "Blog",
+			"path": "./server/blog"
+		},
+		{
+			"name": "Comments",
+			"path": "./server/comments"
+		},
+		{
+			"name": "Query Service",
+			"path": "./server/query-service"
+		},
+		{
+			"name": "Event Bus",
+			"path": "./server/events"
+		}
+	],
+	"settings": {}
+}
